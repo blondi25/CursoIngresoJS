@@ -6,6 +6,6 @@ let minimo = 1;
 
 numero = Math.round(Math.random()*(maximo - minimo) + minimo);
 
-alert(numero)
+alert(numero);
 
 }//FIN DE LA FUNCIÓN
